@@ -1,1 +1,3 @@
-Hola, soy Brayan Mauricio Cruz Martínez y estoy usando Git.
+Hola, soy Brayan Mauricio Cruz Martínez y estoy aprendiendo a usar Git.
+Actualmente estoy estudiando en la U, me gusta todo tipo de deportes y se me
+facilita programar. Soy bastante relajado :D
