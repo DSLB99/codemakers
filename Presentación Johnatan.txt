@@ -1,0 +1,3 @@
+Hola, soy Johnatan Agudelo Múnera y estoy aprendiendo a usar Git.
+Soy Ingeniero Físico y me considero un aficionado a la programación.
+Para esta semana mi rol es el de Desarrollador y Administrador de la base de datos.
